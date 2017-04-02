@@ -1,4 +1,4 @@
-package my.game.app;
+package my.game;
 
 import my.game.states.EnvironmentAppState;
 import com.jme3.app.SimpleApplication;
