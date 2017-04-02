@@ -1,6 +1,6 @@
 # InputManagerModidiersTest
-(See below for setting up the library JME-core.dir)
 Small JME program to test input with modifiers
+(See below for setting up the library JME-core.dir)
 
 Use 8/2 for up/down translation.
 Use 4/6 for left/right translation.
