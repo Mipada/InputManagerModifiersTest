@@ -1,7 +1,7 @@
 # InputManagerModidiersTest
-Small JME program to test input with modifiers
+Small JME program to test input with modifiers 
 (See below for setting up the library JME-core.dir)
-
+This is a stripped down version of a game I'm working on. There is some depth to it. It works fine for me. ;)  
 Use 8/2 for up/down translation.
 Use 4/6 for left/right translation.
 Use 7/1 for forward/backward translation.
